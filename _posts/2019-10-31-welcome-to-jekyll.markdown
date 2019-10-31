@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "שלום עולם"
+title:  שלום עולם - Привет, мир
 date:   2019-10-31 10:16:54 +0200
 categories: jekyll update
 ---
